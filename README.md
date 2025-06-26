@@ -2,7 +2,7 @@
 
 ![cover](./cover.png)
 
-Hello there! 👋
+Hello! 👋
 
 Thank you for checking out my portfolio project. This repository contains all the necessary files to set up my portfolio locally on your machine. Follow the instructions below to get started.
 
@@ -44,6 +44,6 @@ Once the dependencies are installed, you can run the project locally with:
 
 ```bash
 npm run dev
-```
+``` 
 
 Your portfolio should now be running on `http://localhost:5173`. Open this URL in your browser to see it in action!

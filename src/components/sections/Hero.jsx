@@ -9,11 +9,11 @@ export default function Hero() {
         <div className="font-mono md:w-2/3">
           <TypeAnimation
             sequence={[
-              'Technical Documentation Engineer ✍🏾',
+              'Looking for a Technical Documentation Writer?',
               2000,
-              'Building Developer Experiences ✍🏾',
+              'Who Builds Developer Experiences? ',
               2000,
-              'Creating API Documentation ✍🏾',
+              'And Creats API Documentation? ',
               2000,
             ]}
             wrapper="h1"
@@ -24,13 +24,13 @@ export default function Hero() {
           />
           <br />
           <p className="text-2xl text-gray-200">
-            Hello, World! 👋 I'm Wisdom ⚡️
+            HI! 👋 I'm Praise⚡
           </p>
           <br />
           <p className="text-xl text-gray-300">
-            I'm known as the "Docs Guru." With over five years of experience as a Technical Writer specializing in Developer and API Documentation, 
+            I'm skilled in API, Developer documentation and thoughtleadership. 
             <br />  <br />
-           I work with companies worldwide to showcase their innovative solutions to diverse audiences. 
+           I help saas providers to showcase their innovative solutions to diverse audiences. 
             My expertise lies in collaborating with SaaS providers. 
             <br /> <br />
             I am passionate about docs-as-code, open source, workflow optimization, API documentation, style guide development, and creating engaging visual resources.
